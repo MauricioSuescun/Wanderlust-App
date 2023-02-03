@@ -1,0 +1,10 @@
+.headerDiv {
+    display: table-caption;
+    /* justify-content: space-evenly; */
+}
+
+.select{
+    color: blue;
+    background-color: transparent;
+    border-radius: 15px;
+}
